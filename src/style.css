@@ -1,1 +1,43 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: green;
+}
+.bodycard {
+  height: 500px;
+  width: 330px;
+  border-radius: 20px;
+  border: 1px solid black;
+  background: white;
+  margin-top: 50px;
+}
+.icon1 {
+  height: 80px;
+  width: 80px;
+  font-size: 60px;
+  text-align: center;
+  border: 1px solid black;
+}
+.number {
+  height: 80px;
+  width: 80px;
+  font-size: 60px;
+  text-align: center;
+  border: 1px solid black;
+  display: block;
+  display: flex;
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+.icon2 {
+  height: 80px;
+  width: 80px;
+  font-size: 60px;
+  text-align: center;
+  border: 1px solid black;
+  display: block;
+  display: flex;
+  position: absolute;
+  margin-top: 320px;
+  margin-left: 210px;
+}
